@@ -9,9 +9,9 @@ def count_items(items):
 
 def main():
     add_item("dog food")
-    add_item("cat food")
-    add_item("fish food")
+    add_item("cat toy")
     add_item("bird cage")
+    add_item("fish tank")
 
 list = lambda x :print(f"item:{x}")
 
